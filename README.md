@@ -3,7 +3,7 @@ Welcome to Flappy Bird, a classic game brought to life in Unity!
 
 # How to Play:
 <b>Click the link:</b> <a href="https://nishal.itch.io/flappybird?secret=JQEbfjtyjhDUEq5ilqDBtiGc4Q">Play Flappy Bird</a><br>
-<b>Start the Game:</b> Press the "Start" button to begin your Flappy Bird adventure.<br>
+<b>Start the Game:</b> Press the "Run Game" button to begin your Flappy Bird adventure.<br>
 <b>Fly with Spacebar:</b> Tap the spacebar to make your bird flap its wings and soar through the air.<br>
 <b>Avoid Obstacles:</b> Navigate your way through the pipes and avoid crashing into the ground to score points.<br>
 # Features:
